@@ -17,7 +17,7 @@
 [![Discord, VSCode, Github](https://skillicons.dev/icons?i=discord,vscode,github)](https://skillicons.dev)
 
 ## 🖥️ **Operating Systems I have on my computer**
-[![Windows, Linux, Raspberry Pi](https://skillicons.dev/icons?i=windows,linux,raspberrypi)](https://skillicons.dev)
+[![Windows, Linux, Ubuntu, Raspberry Pi](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 ### [Bill29200](https://github.com/Bill29200) shares his Raspberry Pi with me (then it's not mine but a lil' bit)
 💬 Feel free to take a look at my projects and contact me with any questions or potential collaborations!
 
