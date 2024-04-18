@@ -21,7 +21,7 @@
 ### [Bill29200](https://github.com/Bill29200) shares his Raspberry Pi with me (then it's not mine but a lil' bit)
 💬 Feel free to take a look at my projects and contact me with any questions or potential collaborations!
 
-[![aness6040's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aness6040)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![aness6040's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aness6040)](github-readme-activity-graph.vercel.app/graph?bg_color=ffe97f)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aness6040&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Aness6040's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aness6040&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aness6040&langs_count=10&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
