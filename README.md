@@ -5,7 +5,7 @@
 - 💻 As a developer, I am passionate about creation and innovation, and I strive to push the boundaries with every project.
 - 🌟 Passionate about creation and innovation, I strive to push boundaries and bring new ideas to each project.
 
-## 📚 **Languages I master**
+## 📚 **Languages/Tools/Frameworks I master**
 [![HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 ## 📝 **Languages that I have experienced but not mastered**
 [![Haxe, Godot, Roblox Studio](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,robloxstudio)](https://skillicons.dev)
