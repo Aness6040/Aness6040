@@ -6,9 +6,9 @@
 - 🌟 Passionate about creation and innovation, I strive to push boundaries and bring new ideas to each project.
 
 ## 📚 **Languages I master**
-[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 ## 📝 **Languages that I have experienced but not mastered**
-[![Haxe](https://skillicons.dev/icons?i=haxe,haxeflixel)](https://skillicons.dev)
+[![Haxe, Godot, Roblox Studio](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,robloxstudio)](https://skillicons.dev)
 ## 🎯 **What I'm trying to learn**
 [![Python, Java](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 ## ⬆️ **What Web Hosters I use**
