@@ -13,8 +13,8 @@
 [![Python, Java](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 ## ⬆️ **What Web Hosters I use**
 [![Vercel, Github Pages](https://skillicons.dev/icons?i=vercel,github)](https://skillicons.dev)
-## ⌨️ **Apps I use a lot**
-[![Discord, VSCode, Github](https://skillicons.dev/icons?i=discord,vscode,github)](https://skillicons.dev)
+## ⌨️ **Apps/Softwares I use a lot**
+[![Discord, VSCode, Github, Node JS](https://skillicons.dev/icons?i=discord,vscode,github,nodejs)](https://skillicons.dev)
 
 ## 🖥️ **Operating Systems I have on my computer**
 [![Windows, Linux, Ubuntu, Raspberry Pi](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
