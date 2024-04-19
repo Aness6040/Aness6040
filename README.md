@@ -7,14 +7,14 @@
 
 ## 📚 **Languages/Tools/Frameworks I master**
 [![HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-## 📝 **Languages that I have experienced but not mastered**
-[![Haxe, Godot, Roblox Studio](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,robloxstudio)](https://skillicons.dev)
+## 📝 **Languages/Tools/Frameworks/Softwares that I have experienced but not mastered**
+[![Typescript, Haxe, Godot, Roblox Studio, React, Replit](https://skillicons.dev/icons?i=ts,haxe,haxeflixel,godot,robloxstudio,react,replit)](https://skillicons.dev)
 ## 🎯 **What I'm trying to learn**
-[![Python, Java](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![Python, Java, Lua](https://skillicons.dev/icons?i=python,java,lua)](https://skillicons.dev)
 ## ⬆️ **What Web Hosters I use**
 [![Vercel, Github Pages](https://skillicons.dev/icons?i=vercel,github)](https://skillicons.dev)
 ## ⌨️ **Apps/Softwares/Tools I use a lot**
-[![Discord, VSCode, Github, Node JS](https://skillicons.dev/icons?i=discord,vscode,github,nodejs)](https://skillicons.dev)
+[![Discord, VSCode, Github, Node JS, NPM](https://skillicons.dev/icons?i=discord,vscode,github,nodejs,npm)](https://skillicons.dev)
 
 ## 🖥️ **Operating Systems I have on my computer**
 [![Windows, Linux, Ubuntu, Raspberry Pi](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
