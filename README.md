@@ -8,7 +8,7 @@
 ## 📚 **Languages/Tools/Frameworks I master**
 [![HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 ## 📝 **Languages/Tools/Frameworks/Softwares that I have experienced but not mastered**
-[![Typescript, Haxe, Godot, Roblox Studio, React, Replit](https://skillicons.dev/icons?i=ts,haxe,haxeflixel,godot,robloxstudio,react,replit)](https://skillicons.dev)
+[![Typescript, Haxe, Godot, Roblox Studio, React, Vue, Svelte, Replit](https://skillicons.dev/icons?i=ts,haxe,haxeflixel,godot,robloxstudio,react,vue,svelte,replit)](https://skillicons.dev)
 ## 🎯 **What I'm trying to learn**
 [![Python, Java, Lua](https://skillicons.dev/icons?i=python,java,lua)](https://skillicons.dev)
 ## ⬆️ **What Web Hosters I use**
