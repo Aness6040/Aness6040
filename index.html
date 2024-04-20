@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown à partir d'un fichier</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contenu Markdown à partir d'un fichier</h1>
+
+    <div id="markdown-content">
+        <p>Chargement du contenu Markdown...</p>
+    </div>
+
+    <script>
+        // Fonction pour récupérer le contenu du fichier Markdown
+        function getMarkdownContent(url) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erreur de chargement du fichier Markdown');
+                    }
+                    return response.text();
+                })
+                .then(markdown => {
+                    // Convertir le contenu Markdown en HTML
+                    const converter = new showdown.Converter();
+                    const html = converter.makeHtml(markdown);
+                    document.getElementById('markdown-content').innerHTML = html;
+                })
+                .catch(error => {
+                    console.error('Erreur:', error);
+                    document.getElementById('markdown-content').innerHTML = '<p>Une erreur s\'est produite lors du chargement du fichier Markdown.</p>';
+                });
+        }
+
+        // Appeler la fonction avec l'URL du fichier Markdown
+        getMarkdownContent('https://raw.githubusercontent.com/Aness6040/Aness6040/main/README.md');
+    </script>
+
+    <!-- Bibliothèque Showdown pour la conversion Markdown en HTML -->
+    <script src="https://cdn.jsdelivr.net/npm/showdown@1.10.2/dist/showdown.min.js"></script>
+</body>
+</html>
